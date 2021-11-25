@@ -7,7 +7,7 @@
 На тестирование затрачено: один час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/KonstaMonte/Money-Transfer/issues/1
+https://github.com/KonstaMonte/MoneyTransfer/issues/1
 
 ## Описание процесса тестирования
 
