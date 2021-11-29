@@ -7,14 +7,9 @@
 На тестирование затрачено: один час
 
 В результате тестирования выявлены следующие дефекты:
-<<<<<<< HEAD
-[issue](https://github.com/KonstaMonte/MoneyTransfer/issues/1)
- 
-=======
-https://github.com/KonstaMonte/MoneyTransfer/issues/1
 
->>>>>>> c77a4cd3461cee07e1b32a6da5aecdb9f89dabb4
-## Описание процесса тестирования
+[issue](https://github.com/KonstaMonte/MoneyTransfer/issues/1)
+
 
 В процессе тестирования использовались следующие артефакты*:
 * текущий баланс счёта клиента - переменная типа int, значение - 2_000_000_000 (два миллиарда рублей)
